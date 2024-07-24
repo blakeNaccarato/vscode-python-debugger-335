@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "1-debugpy-adapter-settings-justmycode"
+		},
+		{
+			"path": "2-debugpy-adapter"
+		},
+		{
+			"path": "3-vscode-python-debug-adapter"
+		}
+	],
+	"settings": {}
+}
